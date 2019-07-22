@@ -1,0 +1,12 @@
+spring:
+  redis:
+    host: localhost
+    database: 0
+    port: 6379
+
+
+  rabbitmq:
+    host: 188.131.251.86
+    username: admin
+    password: admin
+    port: 5672
